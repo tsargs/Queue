@@ -1,5 +1,5 @@
 # Queue
-A simple queue implementation and a thread safe queue implementation
+A simple queue implementation and a thread safe queue implementation.
 
 Thread safe queue implementation:
 
